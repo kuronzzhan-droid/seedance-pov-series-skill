@@ -27,7 +27,7 @@ English subtitle: It's fine. Come here and sleep.
 12-15秒：他犹豫了一秒，走过来在床边坐下——还是面向窗户的方向，背挺直，把怀里的旧睡衣放到我枕边；画面停在雨夜微光里一人一狼的剪影：我躺回去，他坐在床沿守着，耳朵还朝着窗外，尾巴却搭在了我的被子上。
 〔批注：收尾的妥协是"各让一半"——他答应上床但坚持面向窗（骑士的固执），尾巴搭被子（心已经安了）。感情线的进度条藏在这半步里。尾帧：床沿守夜剪影＋搭在被子上的尾巴。〕
 约束：全程第一人称，不出现我的全身和脸；角色服装外观与@图片2完全一致（含面部疤痕），怀中旧衣=深色旧睡衣；他的动作一次一个（站岗转耳→低声说话→走近坐下→放旧衣）；我的手部动作一次一个（撑身→掀被拍床）；卧室布局与@图片1一致，全程暗光雨夜、闪电为间歇光源；台词段镜头保持稳定；无场景转换。
-真实电影质感，realistic，photorealistic，no noise，grain，artifacts。
+真实电影质感，realistic，photorealistic，neutral white balance，true-to-life colors，clean highlights，sharp focus，no noise，no grain，no artifacts，no yellow filter，no vintage look。
 
 ---
 
