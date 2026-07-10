@@ -1,15 +1,16 @@
 # 模板集：场景图提示词 · 15秒精简I2V · 本集存档 · 连载状态 · 角色档案
 
-## 一、场景图提示词模板（发给生图工具，画面无角色）
-风格词二选一（写实照片系与插画渲染系互斥，勿混写）：
-- 写实系：`realistic，photorealistic，4k，high clarity，sharp focus，neutral white balance`
-- 插画渲染系：`clean illustration，smooth shading，controlled details，4k，high clarity，refined edges`
+## 一、场景图提示词模板（发给生图工具，画面无主要角色）·精简电影化风格（实拍验证质感最佳）
 ```
-生成图片仅描绘场景不要出现角色，16:9，【风格词串·二选一】，soft lighting。
-场景是【时间＋地点】：【空间结构与主要陈设】，【光源与光线状态（写来源和落点，暖光场景配一个冷色/中性对照物）】，【天气/窗外】。
-画面需要满足的剧情功能：【功能区清单：如"墙边可坐一位大型角色""门边有可按的开关"】。
-不要出现角色、人物、动物或拟人角色。
+生成图片设计电影化场景，不要出现主要角色，16:9，realistic，photorealistic，4k，
+razor sharp focus，high clarity，natural【时段】lighting，clear shadows，crisp details。
+场景是【一句话场景】，写实摄影质感：
+【视觉层次一，短行】；
+【视觉层次二，短行】；
+【视觉层次三——关键功能区，动线用括号简注】。
+色调以【主色组】为主，【点缀色】做点缀。
 ```
+**结构纪律**：短行分层（每行一个层次）、只留必要元素、不写冗长功能清单、不堆形容词；背景NPC一行带过（需要人气的场景可含背景路人，主要角色永不入底图）；插画风项目把写实词串换成`clean illustration，smooth shading，4k，high clarity，refined edges`（两系勿混写）。
 挑构图按"首帧即封面"标准（hook-retention.md）。
 同一地点再次出场：把旧场景图一并发给生图工具，只改光线/时间/角度（"基于附图这间房间，改为清晨…"）。
 
