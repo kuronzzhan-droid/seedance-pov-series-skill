@@ -17,6 +17,7 @@
 3. **清晰度正向词**：`neutral white balance, true-to-life colors, clean highlights, sharp focus, high clarity`
 4. **禁词表**：怀旧/复古/老照片/胶片感/film grain/vintage/sepia/朦胧/梦幻/柔焦/"温暖的色调"（全局用法）；水汽只写局部（"浴缸上方腾起水汽"✅"画面氤氲"❌）
 5. **材质反光锚**：每景写1-2个高光洁物（玻璃杯反光、金属把手冷光）=清晰度参照物。
+6. **疏密纪律（防噪点）**：元素堆叠密集=噪点之源——远景大场面用**少元素、大色块、成片不逐个**（花海成片不逐朵、房屋稀疏不层叠、人群写剪影群）；正向词`simple composition, large clean color fields, uncluttered`；构图留白本身就是美感与清晰度。
 **夜戏专项**：夜≠暗糊——`灯光照亮的区域边界分明，暗部保持深色但干净无噪点`。
 **负向兜底**（约束末尾，负向词必须逐词加no——"no noise, grain"字面=正向要求颗粒）：`no noise, no grain, no artifacts, no yellow filter, no vintage look`
 
